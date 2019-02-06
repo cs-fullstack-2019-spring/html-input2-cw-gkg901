@@ -1,3 +1,7 @@
+
+### 1.5 POINTS
+### KEY: Mostly correct, however you didn't set the 'required' attribute for the terms checkbox
+
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
